@@ -1,0 +1,7 @@
+C:\C# 2\EjercicioCompletoArchivos\EjercicioCompletoArchivos\bin\Debug\EjercicioCompletoArchivos.exe.config
+C:\C# 2\EjercicioCompletoArchivos\EjercicioCompletoArchivos\bin\Debug\EjercicioCompletoArchivos.exe
+C:\C# 2\EjercicioCompletoArchivos\EjercicioCompletoArchivos\bin\Debug\EjercicioCompletoArchivos.pdb
+C:\C# 2\EjercicioCompletoArchivos\EjercicioCompletoArchivos\obj\Debug\EjercicioCompletoArchivos.csproj.AssemblyReference.cache
+C:\C# 2\EjercicioCompletoArchivos\EjercicioCompletoArchivos\obj\Debug\EjercicioCompletoArchivos.csproj.CoreCompileInputs.cache
+C:\C# 2\EjercicioCompletoArchivos\EjercicioCompletoArchivos\obj\Debug\EjercicioCompletoArchivos.exe
+C:\C# 2\EjercicioCompletoArchivos\EjercicioCompletoArchivos\obj\Debug\EjercicioCompletoArchivos.pdb
